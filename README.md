@@ -1,5 +1,4 @@
 # StudentNotesManager
-# StudentNotesManager
 
 StudentNotesManager — MERN-Based Student Notes Management System
 Technical Design & Development Document
